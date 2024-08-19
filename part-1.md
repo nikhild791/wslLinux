@@ -36,6 +36,7 @@ for eg. Package 'python3-pip' has no installation candidate
 and check with this 
 ```wsl -l```
 
+
 ### <font color="blue" ><center>🐳 docker 🐋</center> </font>
 ### We can run docker inside the ubuntu distro of wsl for that we need to install the docker after but there is a plot twist 
 ```wsl -l``` the default linux distro will only have the docker connection if you want other distros to have the docke r following the command
